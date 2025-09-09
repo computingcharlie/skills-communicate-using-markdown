@@ -8,3 +8,8 @@ b <- 2
 product <- a + b
 print(product)
 ```
+
+### Task list
+
+- [ ] Learn more about Git hub
+- [ ] Understand workflows better
